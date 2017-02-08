@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 1</title>
+  </head>
+  <body>
+      <h1>Christopher Moy </h1> 
+          <h2>My Programming Experience </h2>
+            <ul>
+              <li>I took like one class in high school</li>
+              <li>I've worked with wordpress before but just what the site editor had, nothing fancy.</li>
+              <li>That's basically it,I'm pretty bad at this.</li>
+        </ul>
+    </body>
+</html>
